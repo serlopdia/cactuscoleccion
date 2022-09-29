@@ -1,0 +1,31 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.login{
+	outline: none;
+	padding: 20px;
+	display: block;
+	width: 300px;
+	border-radius: 3px;
+	border: 3px solid #eee;
+	margin: 20px auto;
+	
+}
+.imagen{
+	width: 350px;
+	padding-bottom: 50px;
+}
+.derecha h1{
+	padding-bottom: 15px; 
+	font-variant: small-caps;
+}
+
+fieldset.categorias{
+	float:left;
+	margin-bottom: 100%;
+	
+}
